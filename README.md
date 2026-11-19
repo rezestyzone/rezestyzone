@@ -1,16 +1,13 @@
-## Hi there 👋
+## just rezestyzone, writing code 👋
 
-<!--
-**rezestyzone/rezestyzone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting small web tools, micro-SaaS experiments, and automation scripts. Based in Malaysia.
 
-Here are some ideas to get you started:
+- 💬 Ask me about TypeScript
+- 🛠️ Tinkering with side projects on weekends
+- 🌱 Learning Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=rezestyzone&hide_border=true&theme=minimal" alt="Contribution graph" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rezestyzone&hide_border=true&theme=merko" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/FastAPI-f778ba?style=for-the-badge&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/React-f778ba?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/SQLite-f778ba?style=for-the-badge&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/Python-f778ba?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-f778ba?style=for-the-badge&logoColor=white" alt="TypeScript" />
